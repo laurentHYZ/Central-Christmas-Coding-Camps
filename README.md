@@ -1,50 +1,51 @@
 
 # Table of Contents
 
-1.  [Python](#orgadf2b57)
-2.  [Central Christmas Coding Camps](#orgfef197f)
-    1.  [Who are those camps for?](#org173a23a)
-    2.  [Central Christmas Coding Camp (CCCC)](#org3f6669c)
-    3.  [Some details about the CCCC](#org722c48f)
-    4.  [Schedule](#org3dd2401)
-3.  [Q&A](#org46c14ea)
+1.  [Central Christmas Coding Camps](#org2dc16f7)
+    1.  [Who are those camps for?](#org5135f48)
+    2.  [Central Christmas Coding Camps (CCCC)](#org3da2037)
+    3.  [Some details about the CCCC](#org1d6c609)
+    4.  [Schedule](#org0fa260e)
+2.  [Q&A](#orgfde3024)
+
+Hi, my name is Laurent PINSON （LineApp: baudolino, Wechat: LaurentPinson), I am a former telecom expert now reconverted in coding education, and I am here to provide a simple message:
+
+-   children should acquire basic coding skills regardless of the occupation they will have as adults
+-   when learning coding it is crucial to separate clearly the skill of typing (touch-typing) from the coding language
+-   respect touch-typing and invest time in it as soon as 6 yo
+-   when learning coding language pick your language carefully and as much as possible use woodware and pen-and-paper (even if your touch-typing skills )
+-   do not neglect physical activities, and if you can hide coding commands as you coach the kids
+
+THere is always more to anything, but let&rsquo;s start from the above. If you think that you already know the basics of touch-typing or coding I would strongly recommend  you to contact me as I have an opiniated future-proof learning map that will most probably blow your mind (Yes it does involve Linux and Emacs)
 
 
-
-<a id="orgadf2b57"></a>
-
-# Python
-
-Coding Python is THE coding language you or your child should start with. Either trust me or look it up online, there is little to no debate about that really:)
-
-
-<a id="orgfef197f"></a>
+<a id="org2dc16f7"></a>
 
 # Central Christmas Coding Camps
 
 
-<a id="org173a23a"></a>
+<a id="org5135f48"></a>
 
 ## Who are those camps for?
 
-Is your child is between +6 yo?
-Fluent in english?
-Willing to learn coding and have fun doing so?
-Let&rsquo;s get in touch
+Is your child is between +7 yo?孩子7岁以上？
+Fluent in english?英文/中文流利？
+Willing to learn coding and have fun doing so?愿意学习原意听话？
+Let&rsquo;s get in touch那就走吧
 
 
-<a id="org3f6669c"></a>
+<a id="org3da2037"></a>
 
-## Central Christmas Coding Camp (CCCC)
+## Central Christmas Coding Camps (CCCC)
 
 In small groups (6 students or less), we will
 
--   learn coding basics (using Python)
+-   learn coding basics (using Python)学习编程
 -   learn touch-typing (盲打)
--   workout (with coding-basics hidden everywhere)
+-   workout (with coding-basics hidden everywhere 运动的时候不知不觉练编程)
 
 
-<a id="org722c48f"></a>
+<a id="org1d6c609"></a>
 
 ## Some details about the CCCC
 
@@ -56,7 +57,7 @@ In small groups (6 students or less), we will
 -   Code&Sweat 出汗编程跳跳吧 A healthy mind in a healthy body Code&Sweat is basically a sport-class where I will gradually introduce instructions/commands using python-english instead of natural english.
 
 
-<a id="org3dd2401"></a>
+<a id="org0fa260e"></a>
 
 ## Schedule
 
@@ -71,7 +72,7 @@ In small groups (6 students or less), we will
 [Check the schedule](./codecamp.png)
 
 
-<a id="org46c14ea"></a>
+<a id="orgfde3024"></a>
 
 # Q&A
 
@@ -103,7 +104,7 @@ You know best what to do. In this bootcamp series I am incorporating some very i
 
 -   What is the target age?
 
-6 till 12 I will pair match kids and have them work on their own.
++7  yo I will pair match kids and have them work on their own.
 
 -   I am not available in the morning, can we organize something similar in the afternoon?
 
@@ -122,6 +123,10 @@ Please Line of Wechat me
 <col  class="org-left" />
 
 <col  class="org-left" />
+
+<col  class="org-right" />
+
+<col  class="org-left" />
 </colgroup>
 <thead>
 <tr>
@@ -130,6 +135,8 @@ Please Line of Wechat me
 <th scope="col" class="org-left">weekday boot-camps</th>
 <th scope="col" class="org-left">weekends boot-camps</th>
 <th scope="col" class="org-left">Code&amp;Sweat</th>
+<th scope="col" class="org-right">price</th>
+<th scope="col" class="org-left">&#xa0;</th>
 </tr>
 </thead>
 
@@ -140,6 +147,8 @@ Please Line of Wechat me
 <td class="org-left">Dec 21-25 from 9:30h-13h</td>
 <td class="org-left">&#xa0;</td>
 <td class="org-left">basketball</td>
+<td class="org-right">7500</td>
+<td class="org-left">&#xa0;</td>
 </tr>
 
 
@@ -149,6 +158,8 @@ Please Line of Wechat me
 <td class="org-left">&#xa0;</td>
 <td class="org-left">Dec 26-27, 1pm-4pm</td>
 <td class="org-left">basketball</td>
+<td class="org-right">3000</td>
+<td class="org-left">&#xa0;</td>
 </tr>
 
 
@@ -157,7 +168,9 @@ Please Line of Wechat me
 <td class="org-right">53</td>
 <td class="org-left">Dec28-Jan01 from 12h-16h</td>
 <td class="org-left">&#xa0;</td>
-<td class="org-left">parkour</td>
+<td class="org-left">parkour &amp; mma</td>
+<td class="org-right">7500</td>
+<td class="org-left">&#xa0;</td>
 </tr>
 
 
@@ -166,7 +179,9 @@ Please Line of Wechat me
 <td class="org-right">53</td>
 <td class="org-left">&#xa0;</td>
 <td class="org-left">Jan 2-3, 1pm-4pm</td>
-<td class="org-left">parkour</td>
+<td class="org-left">parkour &amp; mma</td>
+<td class="org-right">3000</td>
+<td class="org-left">&#xa0;</td>
 </tr>
 
 
@@ -176,6 +191,8 @@ Please Line of Wechat me
 <td class="org-left">Jan 3-7 from 9:30-13h</td>
 <td class="org-left">&#xa0;</td>
 <td class="org-left">basketball</td>
+<td class="org-right">7500</td>
+<td class="org-left">&#xa0;</td>
 </tr>
 
 
@@ -185,6 +202,8 @@ Please Line of Wechat me
 <td class="org-left">&#xa0;</td>
 <td class="org-left">Jan 8-9 1pm-4pm</td>
 <td class="org-left">basketball</td>
+<td class="org-right">3000</td>
+<td class="org-left">&#xa0;</td>
 </tr>
 </tbody>
 </table>

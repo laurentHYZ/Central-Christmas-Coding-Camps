@@ -1,21 +1,27 @@
 #+TITLE: Central Christmas Coding Camps
 
-[[./codecampqr.png][Link to the qrcode]]
-* Python
-Coding Python is THE coding language you or your child should start with. Either trust me or look it up online, there is little to no debate about that really:)
+Hi, my name is Laurent PINSON （LineApp: baudolino, Wechat: LaurentPinson), I am a former telecom expert now reconverted in coding education, and I am here to provide a simple message:
+- children should acquire basic coding skills regardless of the occupation they will have as adults
+- when learning coding it is crucial to separate clearly the skill of typing (touch-typing) from the coding language
+- respect touch-typing and invest time in it as soon as 6 yo
+- when learning coding language pick your language carefully and as much as possible use woodware and pen-and-paper (even if your touch-typing skills )
+- do not neglect physical activities, and if you can hide coding commands as you coach the kids
+
+THere is always more to anything, but let's start from the above. If you think that you already know the basics of touch-typing or coding I would strongly recommend  you to contact me as I have an opiniated future-proof learning map that will most probably blow your mind (Yes it does involve Linux and Emacs)
+
 *  Central Christmas Coding Camps
 ** Who are those camps for?
 
-Is your child is between +6 yo?
-Fluent in english?
-Willing to learn coding and have fun doing so?
-Let's get in touch
+Is your child is between +7 yo?孩子7岁以上？
+Fluent in english?英文/中文流利？
+Willing to learn coding and have fun doing so?愿意学习原意听话？
+Let's get in touch那就走吧
 ** Central Christmas Coding Camps (CCCC)
 In small groups (6 students or less), we will
 
-- learn coding basics (using Python)
+- learn coding basics (using Python)学习编程
 - learn touch-typing (盲打)
-- workout (with coding-basics hidden everywhere)
+- workout (with coding-basics hidden everywhere 运动的时候不知不觉练编程)
 
 ** Some details about the CCCC
 - Coding ala Montessori 解释概念用木块儿: Within camp, any aspect of coding/python that requires conceptual understanding will be ingrained through games with wooden props. That’s coding ala Montessori 木块儿编程.
@@ -57,18 +63,17 @@ Yes, there will be plenty of new things while at the same time each child will p
 You know best what to do. In this bootcamp series I am incorporating some very important competences (namely touch-typing and Computer-related english), so if you think that 1-week is enough I would still urge you to make sure that your child works on those 2 areas one way or another.
 
 - What is the target age?
-6 till 12 I will pair match kids and have them work on their own.
++7  yo I will pair match kids and have them work on their own.
 
 - I am not available in the morning, can we organize something similar in the afternoon?
 Please Line of Wechat me
-
-|---------------+-------+--------------------------+---------------------+------------|
-| Bootcamp code | week# | weekday boot-camps       | weekends boot-camps | Code&Sweat |
-|---------------+-------+--------------------------+---------------------+------------|
-| “P”           |    52 | Dec 21-25 from 9:30h-13h |                     | basketball |
-| “Y”           |    52 |                          | Dec 26-27, 1pm-4pm  | basketball |
-| “T”           |    53 | Dec28-Jan01 from 12h-16h |                     | parkour    |
-| “H”           |    53 |                          | Jan 2-3, 1pm-4pm    | parkour    |
-| “O”           |    01 | Jan 3-7 from 9:30-13h    |                     | basketball |
-| "N"           |    01 |                          | Jan 8-9 1pm-4pm     | basketball |
-|---------------+-------+--------------------------+---------------------+------------|
+|---------------+-------+--------------------------+---------------------+---------------+-------+---|
+| Bootcamp code | week# | weekday boot-camps       | weekends boot-camps | Code&Sweat    | price |   |
+|---------------+-------+--------------------------+---------------------+---------------+-------+---|
+| “P”           |    52 | Dec 21-25 from 9:30h-13h |                     | basketball    |  7500 |   |
+| “Y”           |    52 |                          | Dec 26-27, 1pm-4pm  | basketball    |  3000 |   |
+| “T”           |    53 | Dec28-Jan01 from 12h-16h |                     | parkour & mma |  7500 |   |
+| “H”           |    53 |                          | Jan 2-3, 1pm-4pm    | parkour & mma |  3000 |   |
+| “O”           |    01 | Jan 3-7 from 9:30-13h    |                     | basketball    |  7500 |   |
+| "N"           |    01 |                          | Jan 8-9 1pm-4pm     | basketball    |  3000 |   |
+|---------------+-------+--------------------------+---------------------+---------------+-------+---|
